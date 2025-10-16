@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TP03 Home</string>
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="center_text">Bienvenue à ISET Kélibia</string>
+    <string name="toast_message">Bienvenue dans l\'application !</string>
+    <string name="dialog_title">Confirmation</string>
+    <string name="dialog_text">Voulez-vous continuer ?</string>
+    <string name="confirm">Confirmer</string>
+    <string name="cancel">Annuler</string>
+</resources>
