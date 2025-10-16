@@ -46,7 +46,7 @@ Each TP builds foundational skills in modern Android UI development, state manag
 ---
 
 ## 📸 Preview
-*(Screenshots can be added in a `/screenshots` folder for demonstration during submission.)*
+*Screenshots will be added in a `/screenshots` folder for demonstration.*
 
 ---
 
