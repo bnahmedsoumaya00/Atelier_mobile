@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "TP03_HomeScreen"
 include(":app")
- 

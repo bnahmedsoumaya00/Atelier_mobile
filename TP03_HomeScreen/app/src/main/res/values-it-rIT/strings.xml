@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="welcome_text">Benvenuto a ISET Kélibia</string>
+    <string name="button1">Pulsante 1</string>
+    <string name="button2">Pulsante 2</string>
+    <string name="toast_launch">Applicazione avviata</string>
+    <string name="dialog_title">Conferma</string>
+    <string name="dialog_message">Vuoi continuare?</string>
+    <string name="confirm">Conferma</string>
+    <string name="cancel">Annulla</string>
+    <string name="language_toggle">Cambia lingua</string>
+    <string name="logo_content_desc">Logo dell\'ISET Kélibia</string>
+</resources>
